@@ -3,7 +3,7 @@ def main():
     p1_answer = part_one()
     print('Part 1 Answer:', p1_answer)
     p2_answer = part_two()
-    print('Part 2 Answer:', p1_answer)
+    print('Part 2 Answer:', p2_answer)
 
 def part_one():
     return None
